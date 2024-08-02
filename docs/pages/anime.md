@@ -80,6 +80,10 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
 
+### 🔗 [AnimeZeY](https://animezey.xyz/)
+- O foco é em animes e desenhos, mas há bastante conteúdo diversificado. 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animezey.xyz/)
+
 ## 📑 3 ➜ Torrents
 
 ### 🧲 [AniDex](https://anidex.info/)
